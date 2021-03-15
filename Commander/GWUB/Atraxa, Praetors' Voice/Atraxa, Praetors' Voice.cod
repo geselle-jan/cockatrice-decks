@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Atraxa</deckname>
+    <comments>Saga based Deck</comments>
+    <zone name="main">
+        <card number="1" name="Atraxa, Praetors' Voice"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="The Binding of the Titans"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Triumph of Gerrard"/>
+        <card number="1" name="Elspeth's Nightmare"/>
+        <card number="1" name="History of Benalia"/>
+        <card number="1" name="The First Iroan Games"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="Time of Ice"/>
+        <card number="1" name="Rite of Belzenlok"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Kiora Bests the Sea God"/>
+        <card number="1" name="Hex Parasite"/>
+        <card number="1" name="Thrull Parasite"/>
+        <card number="1" name="Power Conduit"/>
+        <card number="1" name="Ferropede"/>
+        <card number="1" name="Chisei, Heart of Oceans"/>
+        <card number="1" name="Board the Weatherlight"/>
+        <card number="1" name="Femeref Enchantress"/>
+        <card number="1" name="Daxos the Returned"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Tuvasa the Sunlit"/>
+        <card number="1" name="Teshar, Ancestor's Apostle"/>
+        <card number="1" name="Zur the Enchanter"/>
+        <card number="1" name="Calix, Destiny's Hand"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Tragic Poet"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Aminatou, the Fateshifter"/>
+        <card number="1" name="Crystal Chimes"/>
+        <card number="1" name="Estrid's Invocation"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Mirrormade"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="7" name="Island"/>
+        <card number="5" name="Swamp"/>
+        <card number="7" name="Forest"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Protean Thaumaturge"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Celestial Ancient"/>
+        <card number="1" name="Eutropia the Twice-Favored"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Enchanted Evening"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="1" name="Helm of the Gods"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="The Trickster-God's Heist"/>
+        <card number="1" name="Fall of the Impostor"/>
+        <card number="1" name="Binding the Old Gods"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Bears of Littjara"/>
+        <card number="1" name="Battle for Bretagard"/>
+        <card number="1" name="King Narfi's Betrayal"/>
+        <card number="1" name="Ascent of the Worthy"/>
+        <card number="1" name="Restoration Specialist"/>
+    </zone>
+</cockatrice_deck>

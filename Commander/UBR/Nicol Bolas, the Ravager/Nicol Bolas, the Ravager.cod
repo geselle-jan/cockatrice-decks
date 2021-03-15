@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Nicol Bolas, the Ravager"/>
+        <card number="1" name="Nicol Bolas, Dragon-God"/>
+        <card number="1" name="Nicol Bolas, God-Pharaoh"/>
+        <card number="1" name="Nicol Bolas, Planeswalker"/>
+        <card number="1" name="Nicol Bolas, the Deceiver"/>
+        <card number="1" name="Nicol Bolas"/>
+        <card number="1" name="Deliver Unto Evil"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Geth's Grimoire"/>
+        <card number="1" name="Visage of Bolas"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Dark Intimations"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Slave of Bolas"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="In Bolas's Clutches"/>
+        <card number="1" name="Fell Specter"/>
+        <card number="1" name="Dragonlord Silumgar"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Kess, Dissident Mage"/>
+        <card number="1" name="Crosis, the Purger"/>
+        <card number="1" name="The Haunt of Hightower"/>
+        <card number="1" name="Tinybones, Trinket Thief"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="The Scarab God"/>
+        <card number="1" name="Kroxa, Titan of Death's Hunger"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="The Scorpion God"/>
+        <card number="1" name="Burglar Rat"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Agent of Treachery"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Crosis's Charm"/>
+        <card number="1" name="Commence the Endgame"/>
+        <card number="1" name="Tyrant's Scorn"/>
+        <card number="1" name="Yawgmoth's Vile Offering"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="God-Pharaoh's Statue"/>
+        <card number="1" name="The Chain Veil"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Planar Bridge"/>
+        <card number="1" name="Liliana's Caress"/>
+        <card number="1" name="Liliana Vess"/>
+        <card number="1" name="Liliana of the Veil"/>
+        <card number="1" name="Liliana, Dreadhorde General"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Mountain"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Waste Not"/>
+        <card number="1" name="Painful Quandary"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Syphon Mind"/>
+    </zone>
+</cockatrice_deck>

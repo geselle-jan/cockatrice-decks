@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Teysa Karlov"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Requiem Angel"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Sifter of Skulls"/>
+        <card number="1" name="Teysa, Orzhov Scion"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Ministrant of Obligation"/>
+        <card number="1" name="Hallowed Spiritkeeper"/>
+        <card number="1" name="Doomed Traveler"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Priest of Forgotten Gods"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Orzhov Enforcer"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Vindictive Lich"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Open the Graves"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Dark Prophecy"/>
+        <card number="1" name="Field of Souls"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Sorin, Lord of Innistrad"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Orzhov Cluestone"/>
+        <card number="1" name="Orzhov Keyrune"/>
+        <card number="1" name="High Market"/>
+        <card number="15" name="Plains"/>
+        <card number="16" name="Swamp"/>
+        <card number="1" name="Vindictive Vampire"/>
+        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Luminous Broodmoth"/>
+        <card number="1" name="Ayli, Eternal Pilgrim"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Kaya's Wrath"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Dutiful Attendant"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Crested Sunmare"/>
+        <card number="1" name="Divinity of Pride"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Archon of Justice"/>
+    </zone>
+</cockatrice_deck>

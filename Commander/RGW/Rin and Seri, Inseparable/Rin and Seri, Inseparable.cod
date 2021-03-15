@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Ajani's Welcome"/>
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Animal Sanctuary"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Cubwarden"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Jedit Ojanen of Efrava"/>
+        <card number="1" name="Kaheera, the Orphanguard"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Marisi, Breaker of the Coil"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Prowling Serpopard"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Regal Caracal"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Rin and Seri, Inseparable"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="White Sun's Zenith"/>
+        <card number="1" name="Whitemane Lion"/>
+        <card number="1" name="Wild Nacatl"/>
+        <card number="1" name="Zendikar Resurgent"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Amulet of Vigor"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Animist's Awakening"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="11" name="Forest"/>
+        <card number="1" name="Glacial Chasm"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Rampaging Brontodon"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Retreat to Hagra"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Scapeshift"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Tornado Elemental"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Yarok, the Desecrated"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Zendikar's Roil"/>
+    </zone>
+</cockatrice_deck>

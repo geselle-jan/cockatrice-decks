@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Galerider Sliver"/>
+        <card number="1" name="Gemhide Sliver"/>
+        <card number="1" name="Manaweft Sliver"/>
+        <card number="1" name="Venom Sliver"/>
+        <card number="1" name="Quick Sliver"/>
+        <card number="1" name="Hunter Sliver"/>
+        <card number="1" name="Winged Sliver"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Crystalline Sliver"/>
+        <card number="1" name="Harmonic Sliver"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Tempered Sliver"/>
+        <card number="1" name="Hollowhead Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Scuttling Sliver"/>
+        <card number="1" name="Telekinetic Sliver"/>
+        <card number="1" name="Toxin Sliver"/>
+        <card number="1" name="Fungus Sliver"/>
+        <card number="1" name="Magma Sliver"/>
+        <card number="1" name="Shifting Sliver"/>
+        <card number="1" name="Pulmonic Sliver"/>
+        <card number="1" name="Brood Sliver"/>
+        <card number="1" name="Might Sliver"/>
+        <card number="1" name="Thorncaster Sliver"/>
+        <card number="1" name="Synapse Sliver"/>
+        <card number="1" name="The First Sliver"/>
+        <card number="1" name="Sliver Queen"/>
+        <card number="1" name="Sliver Legion"/>
+        <card number="1" name="Sliver Hivelord"/>
+        <card number="1" name="Sliver Overlord"/>
+        <card number="1" name="Megantic Sliver"/>
+        <card number="1" name="Sliver Hive"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Kindred Dominance"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wild Pair"/>
+        <card number="1" name="Descendants' Path"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Hibernation Sliver"/>
+        <card number="1" name="Bonescythe Sliver"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Battering Sliver"/>
+        <card number="1" name="Horned Sliver"/>
+        <card number="1" name="Crypt Sliver"/>
+        <card number="1" name="Necrotic Sliver"/>
+        <card number="1" name="Sinew Sliver"/>
+        <card number="1" name="Muscle Sliver"/>
+        <card number="1" name="Predatory Sliver"/>
+        <card number="1" name="Essence Sliver"/>
+        <card number="1" name="Diffusion Sliver"/>
+    </zone>
+</cockatrice_deck>

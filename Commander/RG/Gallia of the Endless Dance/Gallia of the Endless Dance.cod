@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Gallia of the Endless Dance"/>
+        <card number="1" name="Nexus Wardens"/>
+        <card number="1" name="Anax, Hardened in the Forge"/>
+        <card number="1" name="Wild Celebrants"/>
+        <card number="1" name="Satyr Piper"/>
+        <card number="1" name="Blood Aspirant"/>
+        <card number="1" name="Skola Grovedancer"/>
+        <card number="1" name="Satyr Hoplite"/>
+        <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Firedrinker Satyr"/>
+        <card number="1" name="Satyr Firedancer"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Setessan Oathsworn"/>
+        <card number="1" name="Boon Satyr"/>
+        <card number="1" name="Reckless Reveler"/>
+        <card number="1" name="Satyr Hedonist"/>
+        <card number="1" name="Satyr Grovedancer"/>
+        <card number="1" name="Nyxborn Rollicker"/>
+        <card number="1" name="Careless Celebrant"/>
+        <card number="1" name="Voyaging Satyr"/>
+        <card number="1" name="Irreverent Revelers"/>
+        <card number="1" name="Heroes of the Revel"/>
+        <card number="1" name="Stampede Rider"/>
+        <card number="1" name="Satyr Rambler"/>
+        <card number="1" name="Satyr Nyx-Smith"/>
+        <card number="1" name="Revel of the Fallen God"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Genesis"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Atarka's Command"/>
+        <card number="1" name="Destructive Revelry"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Gruul Charm"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Reap the Past"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Gruul War Chant"/>
+        <card number="1" name="Molten Echoes"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Ferocity of the Wilds"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Gaea's Anthem"/>
+        <card number="1" name="Domri, Anarch of Bolas"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="16" name="Forest"/>
+        <card number="16" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Satyr's Cunning"/>
+        <card number="1" name="Heraldic Banner"/>
+    </zone>
+</cockatrice_deck>
