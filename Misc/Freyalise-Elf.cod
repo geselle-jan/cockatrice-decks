@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Titania's Chosen"/>
+        <card number="1" name="Jungle Basin"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Collective Unconscious"/>
+        <card number="1" name="Havenwood Battleground"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Desert Twister"/>
+        <card number="1" name="Elvish Skysweeper"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Fresh Meat"/>
+        <card number="1" name="Essence Warden"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Drove of Elves"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Haunted Fengraf"/>
+        <card number="1" name="Primordial Sage"/>
+        <card number="27" name="Forest"/>
+        <card number="1" name="Elvish Vanguard"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Elvish Branchbender"/>
+        <card number="1" name="Elvish Harbinger"/>
+        <card number="1" name="Elvish Hunter"/>
+        <card number="1" name="Elvish Lyrist"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Wirewood Symbiote"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Descendants' Path"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Quest for Renewal"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Wildborn Preserver"/>
+        <card number="1" name="Elven Ambush"/>
+        <card number="1" name="Primal Rage"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Obscuring Haze"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="Overwhelming Stampede"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Siege Behemoth"/>
+        <card number="5" name="Forest"/>
+        <card number="2" name="Grave Sifter"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="2" name="Sylvan Ranger"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Moss Diamond"/>
+        <card number="1" name="Predator, Flagship"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Wolfcaller's Howl"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Sheltered Aerie"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Clear Shot"/>
+        <card number="1" name="Shape the Sands"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Epic Confrontation"/>
+        <card number="1" name="Grim Flowering"/>
+        <card number="1" name="Hunting Triad"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Lead the Stampede"/>
+        <card number="1" name="Turntimber Symbiosis"/>
+        <card number="1" name="Wave of Vitriol"/>
+        <card number="1" name="Nature's Way"/>
+        <card number="2" name="Praetor's Counsel"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Creeperhulk"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Garruk's Horde"/>
+        <card number="1" name="Ironscale Hydra"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Lifeblood Hydra"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Masked Admirers"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Tornado Elemental"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Wren's Run Packmaster"/>
+        <card number="1" name="Silklash Spider"/>
+        <card number="1" name="Wolfbriar Elemental"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Noble Quarry"/>
+        <card number="1" name="Elvish Eulogist"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Allosaurus Shepherd"/>
+        <card number="1" name="Dwynen's Elite"/>
+        <card number="1" name="Whirlwind"/>
+    </zone>
+</cockatrice_deck>

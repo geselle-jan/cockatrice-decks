@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Sakashima of a Thousand Faces"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Sakashima the Impostor"/>
+        <card number="1" name="Sakashima's Protege"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Sakashima's Will"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Altered Ego"/>
+        <card number="1" name="Bramble Sovereign"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="13" name="Forest"/>
+        <card number="13" name="Island"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="1" name="Gigantoplasm"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Imoti, Celebrant of Bounty"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Twincast"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Quasiduplicate"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Estrid's Invocation"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Turntimber Symbiosis"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Bala Ged Sanctuary"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Rite of Replication"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Court of Bounty"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Rhystic Study"/>
+    </zone>
+</cockatrice_deck>
