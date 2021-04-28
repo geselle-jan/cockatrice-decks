@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Averna, the Chaos Bloom"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Annoyed Altisaur"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Aurora Phoenix"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Boarding Party"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Etherium-Horn Sorcerer"/>
+        <card number="1" name="Flamekin Herald"/>
+        <card number="1" name="Imoti, Celebrant of Bounty"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Maelstrom Colossus"/>
+        <card number="1" name="Maelstrom Wanderer"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Sakashima's Protege"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Shardless Agent"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Forceful Denial"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Natural Reclamation"/>
+        <card number="1" name="Violent Outburst"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Genesis Ultimatum"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Throes of Chaos"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Crystal Shard"/>
+        <card number="1" name="Ingenuity Engine"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Meteoric Mace"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="In Search of Greatness"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Kiora, Behemoth Beckoner"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Training Center"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="9" name="Forest"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Nature's Lore"/>
+    </zone>
+</cockatrice_deck>

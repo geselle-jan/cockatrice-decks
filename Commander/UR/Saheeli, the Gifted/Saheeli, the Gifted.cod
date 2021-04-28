@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Saheeli, the Gifted</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Echo Storm"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Reverse Engineer"/>
+        <card number="1" name="Saheeli's Directive"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Mirrorworks"/>
+        <card number="1" name="Prototype Portal"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Tezzeret, Artifice Master"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mirrodin Besieged"/>
+        <card number="1" name="Storm the Vault"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Forge of Heroes"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="13" name="Island"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Saheeli, the Gifted"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="Saheeli's Artistry"/>
+        <card number="1" name="Retrofitter Foundry"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Ancient Stone Idol"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Darksteel Juggernaut"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Hellkite Igniter"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Thopter Assembly"/>
+        <card number="1" name="Thopter Engineer"/>
+        <card number="1" name="Treasure Nabber"/>
+        <card number="1" name="Vedalken Humiliator"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Shivan Reef"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Foundry of the Consuls"/>
+        <card number="1" name="Scrabbling Claws"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Corridor Monitor"/>
+        <card number="1" name="Dross Scorpion"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Hangarback Walker"/>
+        <card number="1" name="Herald of Kozilek"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Pentavus"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Phyrexian Triniform"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Quicksmith Genius"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Riddlesmith"/>
+        <card number="1" name="Sage of Lat-Nam"/>
+        <card number="1" name="Tawnos, Urza's Apprentice"/>
+        <card number="1" name="Vedalken Archmage"/>
+        <card number="1" name="Voltaic Construct"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Mirrormade"/>
+        <card number="1" name="March of the Machines"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Saheeli Rai"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Braingeyser"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Thoughtcast"/>
+        <card number="1" name="Assert Authority"/>
+        <card number="1" name="Blinkmoth Infusion"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Unstable Obelisk"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Glimmervoid"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Urza's Factory"/>
+    </zone>
+</cockatrice_deck>
